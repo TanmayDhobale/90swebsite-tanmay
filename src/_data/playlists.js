@@ -46,29 +46,29 @@ module.exports = async function fetchPlaylists() {
   if (process.env.ELEVENTY_ENV !== 'production') {
     return [
       {
-        name: 'フロー flow',
-        url: 'https://open.spotify.com/playlist/1oKT4BwzBziaqIs80UPbJq',
+        name: '30 NOVEMBER',
+        url:'https://open.spotify.com/playlist/6ZGjibZYUdb0kkPmqnRmHX?si=377b9f1bbb0d45a2',
         description: 'for when you know you&#x27;re going to code for a while',
         image:
           'https://i.scdn.co/image/ab67706c0000bebba02d8328058f5aa25064d0ce',
       },
       {
-        name: 'ローファイ  l o - f i ',
-        url: 'https://open.spotify.com/playlist/6ou1L5R6RrPk9XhWnls1Lt',
-        description: 'for any moment that you need to focus while head bobbing',
+        name: ' REAL ME ',
+        url: 'https://open.spotify.com/playlist/0qEzzF002VdlGplBzo0pd3?si=d958b45515f04eb4',
+        description: ' moment that you missing her 🥹😋',
         image:
           'https://i.scdn.co/image/ab67706c0000bebb91471f262ee375f823633ee5',
       },
       {
-        name: '寛ぐ gaming nostalgia',
-        url: 'https://open.spotify.com/playlist/6aDjVGh6yqfGSevd8NBjMS',
-        description: 'for chilled nostalgic gaming moments',
+        name: '寛 nostalgia',
+        url: 'https://open.spotify.com/playlist/7ySBYdjfzOOttkZg6Fz5e3?si=da80ab8030f74eef',
+        description: 'for chilled nostalgic moments',
         image:
           'https://i.scdn.co/image/ab67706c0000bebbc79a05be2cd83766bd94ec67',
       },
       {
-        name: 'p o s t - l i f e ',
-        url: 'https://open.spotify.com/playlist/1DQm54uVNgsBrCuDiie6b2',
+        name: ' YO ! ',
+        url: 'https://open.spotify.com/playlist/4wnJe2ilAuQlf4j2V9Dae5?si=579cbb4028a44e04',
         description: 'post rock for contemplating life',
         image:
           'https://i.scdn.co/image/ab67706c0000bebb666bf1679f180a6ed8a26429',

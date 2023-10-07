@@ -1,17 +1,17 @@
 const REDIRECTS = [
   {
     aliases: ['github', 'repositories'],
-    url: 'https://github.com/kaisermann',
+    url: 'https://github.com/tanmaydhobale',
     external: 1,
   },
   {
     aliases: ['twitter', 'kiwi'],
-    url: 'https://twitter.com/kiwistian',
+    url: 'https://twitter.com/tanmayy4l',
     external: 1,
   },
   {
     aliases: ['instagram', 'photos'],
-    url: 'https://instagram.com/kiwistian',
+    url: 'https://instagram.com/tanmay4l',
     external: 1,
   },
 ];
